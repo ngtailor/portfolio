@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Software Programmer",
+      "organisation": "Qfix Infocomm",
+      "startDate": "Aug, 2021",
+      "endDate": "April,2022",
+      "experiences": ["Worked on Admin Portal", "Invoice Solution"],
+      "imageSrc": "history/qfix.png"
+    },
+    {
+      "role": "React js Developer",
+      "organisation": "Qfix by Pinelabs",
+      "startDate": "May, 2022",
+      "endDate": "Aug, 2023",
+      "experiences": ["DIY Forms", "Form Generator"],
+      "imageSrc": "history/pine.png"
+    }
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React JS", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Data Visualization",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ngtailor/data-visulaization.git"
+    },
+    {
+      "title": "Movie Portal",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an OTT platform.",
+      "skills": ["React", "Redux", "HTML/CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ngtailor"
+    }
+  ]
